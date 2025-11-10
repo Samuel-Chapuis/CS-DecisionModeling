@@ -1,0 +1,9 @@
+Voters;Preference1;Preference2;Preference3;Preference4;Preference 5;Preference 6;Preference 7;Preference 8 ;Preference 9
+20;a;b;c;d;e;f;g;h;i
+10;a;e;f;b;i;c;h;g;d
+8;d;a;c;e;b;f;h;i;g
+6;f;i;a;b;g;e;d;c;h
+10;h;a;g;e;i;b;d;f;c
+5;a;f;h;i;d;g;c;b;e
+4;d;g;i;a;b;h;c;f;e
+7;e;a;b;h;c;i;f;d;g
